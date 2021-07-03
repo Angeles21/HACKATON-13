@@ -2,7 +2,7 @@
 
 Porque la función básica de los callbacks es devolver algo en ese mismo instante, o toman un poco de tiempo para
 ello (descarga de imagenes, por ejemplo ). En cambio, las funciones asíncronas suceden en el futuro pero no necesariamente
-se obtiene de manera rápida.
+se obtiene de manera rápida, requiere de un mecanismo específico para que funcinen.
 
 ---
 

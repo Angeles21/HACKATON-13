@@ -1,0 +1,73 @@
+[
+	{
+		"id": 1,
+		"name": "Luca",
+		"image": "./img/dogo1.jpg",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 2,
+		"name": "Canuto",
+		"image": "./img/dogo1.jpg",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 3,
+		"name": "Django",
+		"image": "./img/dogo1.jpg",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 4,
+		"name": "Toshi",
+		"image": "./img/dogo1.jpg",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 5,
+		"image": "./img/dogo1.jpg",
+		"name": "Zero",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 6,
+		"image": "./img/dogo1.jpg",
+		"name": "Holland",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 7,
+		"image": "./img/dogo1.jpg",
+		"name": "Wichita",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	},
+
+	{
+		"id": 8,
+		"image": "./img/dogo1.jpg",
+		"name": "Moriarty",
+		"email": "placeholder@gmail.com",
+		"phone": "xxx-xxx-xxx",
+		"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+	}
+]
