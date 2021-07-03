@@ -33,15 +33,3 @@ xhr.onload = function () {
 };
 
 xhr.send();
-
-function add(addInfo) {
-  let template ="";
-  alert	{template += `};
-  }
-  
-  function procesarEntradaUsuario(callback) {
-  var nombre = prompt("Por favor ingresa tu nombre.");
-  callback(nombre);
-  }
-  
-  procesarEntradaUsuario(saludar);
